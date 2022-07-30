@@ -8,3 +8,5 @@ This page takes your information that your local device has for time, as well as
 If your decide does not know your name, you can enter one in and since it saves the data, it should always reference you by name. 
 
 Here is this tutorial if you'd like a look : https://www.youtube.com/watch?v=fSTQzlprGLI&ab_channel=TraversyMedia
+
+Eventually I wish to branch off a bit more in my own works with this piece to not only include name, and focus but to also include local weather. 
